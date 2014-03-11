@@ -1,54 +1,13 @@
-The Walking Dead :: Puzzle
+The Walking Dead :: RPG
 
 + Pendencias do projeto:
 
-1)desenvolver uma arte para a tela inicial.
-3)inserir/desenvolver os itens que serão ponteiro do mouse na sub-tela 1
-7)fazer o jogo funcionar corretamente
-8)inserir bom layout com imagens do filme TWD.
-9)realizar testes
-10)programação do RPG
-11)quando estiver em uma versão beta, postar no facebook
-
 
 + Tarefas em andamento:
-5)inserir painel com pontuação
 
 
 + Tarefas realizadas:
-4)consertar a grid do carrossel que está quebrando, deixar tamanho fixo
 
-2)retirar botão tutorial
-
-6)corrigir o tamanho da imagem (zumbie rotativo | zumbie morto) em cada grid
-
-andamento=>
-foi feito da grid0 e da grid1
-fazendo atualmente grid2
-
-
-//codigo js para depuração no firefox:
-
-var displayNone = "block",
-    displayBlock= "none";
-
-document.getElementById('telaInicial').style.display = "none";
-document.getElementById('tela1').style.display       = "block";
-document.getElementById('grade0').style.display      = "none";
-document.getElementById('grade1').style.display      = "none";
-document.getElementById('grade2').style.display      = "none";
-document.getElementById('grade3').style.display      = "none";
-document.getElementById('grade4').style.display      = "none";
-document.getElementById('grade5').style.display      = "none";
-document.getElementById('grade6').style.display      = "block";
-
-for(var x=1;x<180;x++){
-    document.getElementById('grade6z'+x).style.display   = 'block';
-    document.getElementById('dead6z'+x).style.display    = 'none';
-    
-    //document.getElementById('grade5z'+x).style.display   = 'none';
-    //document.getElementById('dead5z'+x).style.display    = 'block';
-}
 
 
 
