@@ -1,7 +1,21 @@
 The Walking Dead :: RPG
 
-+ Pendencias do projeto:
 
++Definição do escopo do projeto:
+Para ficar claro, não queremos reinventar a roda, queremos apenas fazer um jogo de zombie mas
+que seja parecido com o bitefight, em toda a sua estrutura de layout e modo de funcionamento, vamos 
+em outras palavras fazer um fork do bitefight.
+
+Queremos um jogo que seja multiplayer, onde todos os jogadores jogam contra o computador.
+neste tipo de jogo, ele tem que se manter vivo do ataque dos zumbis.
+ele vai precisar roubar agua, comida dos outros jogadores online para sobreviver, se 
+por algum motivo for mordido por algum zumbie, ele precisará de medicamentos para voltar a 
+ter a saude reestabelecida, ele tera que comprar em um lugar com dinheiro do jogo que ele 
+rouba dos outros jogadores.
+
+
++ Pendencias do projeto:
+-fazer os prototipos em templates
 
 + Tarefas em andamento:
 
