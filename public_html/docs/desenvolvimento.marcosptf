@@ -15,7 +15,8 @@ rouba dos outros jogadores.
 
 
 + Pendencias do projeto:
--fazer os prototipos em templates
+1)desenvolver os templates html para o jogo, com as funcionalidades que o jogo provavelmente tera;
+2)escrever os scripts mysql com a engenharia ultilizada no jogo;
 
 + Tarefas em andamento:
 
